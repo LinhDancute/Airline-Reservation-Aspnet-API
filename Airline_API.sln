@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Airline_API", "Airline_API\Airline_API.csproj", "{F3D71D32-190B-4F48-955C-2F3E6AED0596}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedClassLibrary", "..\SharedClassLibrary\SharedClassLibrary\SharedClassLibrary.csproj", "{88EAB7F5-958B-4BE8-8DB8-1B283BE1FE81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3D71D32-190B-4F48-955C-2F3E6AED0596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3D71D32-190B-4F48-955C-2F3E6AED0596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3D71D32-190B-4F48-955C-2F3E6AED0596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3D71D32-190B-4F48-955C-2F3E6AED0596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88EAB7F5-958B-4BE8-8DB8-1B283BE1FE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88EAB7F5-958B-4BE8-8DB8-1B283BE1FE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88EAB7F5-958B-4BE8-8DB8-1B283BE1FE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88EAB7F5-958B-4BE8-8DB8-1B283BE1FE81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4F26BBA-F33A-4A38-A3CD-91E5BAE09AF2}
+	EndGlobalSection
+EndGlobal
