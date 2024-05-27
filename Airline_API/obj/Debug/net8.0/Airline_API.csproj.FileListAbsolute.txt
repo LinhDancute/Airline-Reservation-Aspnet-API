@@ -148,3 +148,4 @@ D:\Studying\Coding\Airline\Airline_API\Airline_API\bin\Debug\net8.0\Microsoft.As
 D:\Studying\Coding\Airline\Airline_API\Airline_API\bin\Debug\net8.0\SharedClassLibrary.dll
 D:\Studying\Coding\Airline\Airline_API\Airline_API\bin\Debug\net8.0\SharedClassLibrary.pdb
 D:\Studying\Coding\Airline\Airline_API\Airline_API\bin\Debug\net8.0\Serilog.dll
+D:\Studying\Coding\Airline\Airline_API\Airline_API\obj\Debug\net8.0\Airline_API.sourcelink.json
