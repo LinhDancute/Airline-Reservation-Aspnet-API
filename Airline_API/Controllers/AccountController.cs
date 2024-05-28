@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNet.Identity;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using SharedClassLibrary.Services;
-using SharedClassLibrary.Models.DTOs;
+using Airline_API.Services;
+using Airline_API.Models.DTOs;
 using System.Security.Claims;
 
 namespace Airline_API.Controllers

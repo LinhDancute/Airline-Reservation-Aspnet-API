@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
-using SharedClassLibrary.Services;
+using Airline_API.Services;
 using Airline_API.Respositories;
 using Airline_API.Data;
 using Microsoft.OpenApi.Models;
