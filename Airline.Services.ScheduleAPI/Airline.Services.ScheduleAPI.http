@@ -1,0 +1,6 @@
+@Airline.Services.ScheduleAPI_HostAddress = http://localhost:5080
+
+GET {{Airline.Services.ScheduleAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

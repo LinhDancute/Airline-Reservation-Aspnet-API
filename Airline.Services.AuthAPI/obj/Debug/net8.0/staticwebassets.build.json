@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QhfvffK+4v5hT4CmFjKBVBgLc8Lc5IzJxvCokxq4mRs=",
+  "Source": "Airline.Services.AuthAPI",
+  "BasePath": "_content/Airline.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
